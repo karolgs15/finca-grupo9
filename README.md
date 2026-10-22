@@ -1,1 +1,0 @@
-# finca-grupo9
