@@ -1,1 +1,27 @@
+# finca-grupo9
 
+Taller grupal 1 · Programación 3 · Universidad Agraria del Ecuador
+Proyecto Maven con Java 21 y JUnit 5.
+
+## Integrantes y roles
+
+| Integrante | Rol |
+|---|---|
+| Karolina González | (Líder de integración) |
+| Genesis Gomez | (Responsable de documentación) |
+| Mirian Soledispa | (Responsable de pruebas) |
+
+## Versiones del entorno
+
+| Integrante | Java | Git | IntelliJ IDEA |
+|---|---|---|---|
+| Karolina González | OpenJDK 21.0.12.1 LTS (Temurin) | 2.56.0.2 | 2026.2.3 |
+| Genesis Gomez | OpenJDK 25.0.4.1 LTS (Temurin) | 2.56.0.2 | 2026.2.3 |
+| Mirian Soledispa | OpenJDK 25.0.4.1 LTS (Temurin) | 2.56.0.2 | 2026.2.3 |
+
+## Cómo ejecutar las pruebas
+
+1. Clonar el repositorio: `git clone https://github.com/USUARIO/finca-grupo9.git`
+2. Abrir la carpeta en IntelliJ IDEA con el JDK 21 y esperar a que Maven sincronice.
+3. En la ventana Maven, ir a Lifecycle y hacer doble clic en `test`, o ejecutar `mvn test` en la terminal.
+4. El resultado esperado es `BUILD SUCCESS`.
